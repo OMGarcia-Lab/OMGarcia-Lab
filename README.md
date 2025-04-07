@@ -13,5 +13,5 @@
 
 ## Let's Connect
 
-If you're working on healthcare tech, internships, or just love clean code and PCs, feel free to reach out or follow!
+If you're working on healthcare tech, internships, please feel free to reach out or follow!
 
