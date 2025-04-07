@@ -11,14 +11,6 @@
 
 ---
 
-## Currently Learning
-
-- Python for scripting and automation  
-- SQL for data handling and querying  
-- AWS & Azure fundamentals for cloud infrastructure
-
----
-
 ## Let's Connect
 
 If you're working on healthcare tech, internships, or just love clean code and PCs, feel free to reach out or follow!
