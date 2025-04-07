@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I’m Oscar Garcia
 
-<!--
-**OMGarcia-Lab/OMGarcia-Lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Science student at San Francisco State University  
+💼 I'm working toward a future in Medical IT — ideally at Kaiser Permanente  
+🛠️ I enjoy building PCs, and implementing my own questions into my work 
+📦 This GitHub contains coursework, personal projects, and growing experience with:
 
-Here are some ideas to get you started:
+- Java (core focus from homework and classwork)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 I’m especially interested in the topics of **healthcare and technology**, and how IT can improve lives through efficiency, data, and innovation.
+
+---
+
+## Currently Learning
+
+- Python for scripting and automation  
+- SQL for data handling and querying  
+- AWS & Azure fundamentals for cloud infrastructure
+
+---
+
+## Let's Connect
+
+If you're working on healthcare tech, internships, or just love clean code and PCs, feel free to reach out or follow!
+
